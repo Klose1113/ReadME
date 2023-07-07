@@ -1,7 +1,5 @@
-hi my name is Klose.
+# Hi! I'm Tian-Yi.
 
-# NTU BIME sphomore student
-
-## today is my first day at school.
-
-don't know what to write 
+- 🎓 NTU junior majoring in Biomechatronics Engineering.
+- 🏐 Captain of the NTUBIME volleyball team.
+- 👏 Outgoing and passionate about the things I love.
